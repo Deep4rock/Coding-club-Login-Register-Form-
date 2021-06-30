@@ -14,17 +14,7 @@ npm install
 
 npm run dev
 ```
-Or you can install them individually:
 
-```
-npm install express express-session mysql pug-cli bcrypt util.promisify
-```
-
-Sometimes you get errors and access denied add sudo to the command
-
-```
-sudo npm install express express-session mysql pug-cli bcrypt util.promisify
-```
 
 ### Start the application
 
